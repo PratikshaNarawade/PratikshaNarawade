@@ -25,7 +25,7 @@ I’m a passionate Java Backend Developer who enjoys building secure, scalable, 
 ## 🚀 Languages and Tools:
 <p align="left">
 
-<!-- Languages -->
+ Languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
