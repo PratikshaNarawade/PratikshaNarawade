@@ -19,9 +19,6 @@ I’m a passionate Java Backend Developer who enjoys building secure, scalable, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/pratiksha-narawade-79a57428b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikshanarawade2002@gmail.com) 
 
 
-![](https://github-readme-stats.vercel.app/api?username=PratikshaNarawade&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PratikshaNarawade&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikshaNarawade&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
