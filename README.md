@@ -3,21 +3,11 @@ Hi, I’m Pratiksha, an Computer Application student from India
 
 🙋‍♀️ About Me
 I’m a passionate Java Backend Developer who enjoys building secure, scalable, and efficient server-side applications. I love turning complex problems into clean backend solutions.
-
-🔭 Currently working on:
-Problem solving & backend logic using Java
-
-🌱 Currently learning:
-Spring Boot,Spring Security, Rest API, AWS and React.js (to better collaborate with backendend)
-
-👯 Looking to collaborate on:
-Java-based Open Source Projects & backend systems
-
-💡 Tech Interests:
-Java • Spring Boot • REST APIs • MySQL • Git • Backend Architecture
-
-📫 Reach me at:
-📧 pratikshanarawade2002@gmail.com
+🔭 Currently working on: Problem solving & backend logic using Java
+🌱 Currently learning: Spring Boot,Spring Security, Rest API, AWS and React.js (to better collaborate with backendend)
+👯 Looking to collaborate on: Java-based Open Source Projects & backend systems
+💡 Tech Interests: Java • Spring Boot • REST APIs • MySQL • Git • Backend Architecture
+📫 Reach me at: pratikshanarawade2002@gmail.com
 
 
 
